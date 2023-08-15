@@ -26,11 +26,13 @@ The Address Database Management System is a Linux shell-based project that allow
 
 ```bash
 ./address_database.sh
-Usage
+
+## Usage
 Add Entry: Choose option 1 from the main menu and follow the prompts to add a new entry.
 Search / Edit Entry: Choose option 2 from the main menu, search for a name, and follow the prompts to edit or view an entry.
 Timeout Handling: The application will automatically time out if there's no input for 10 seconds.
-Dependencies
+
+## Dependencies
 Bash (Linux shell)
 Installation
 Clone this repository to your local machine using:
@@ -48,14 +50,7 @@ chmod +x address_database.sh
 Contributing
 Contributions to this project are welcome. Feel free to submit issues, feature requests, and pull requests.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-sql
-Copy code
-
-Copy and paste the entire content above into your `README.md` file in your GitHub repository. Replace `sh4dowpunk` with your actual GitHub username and customize any other information as needed to match your project's specifics.
-
-
 
 
